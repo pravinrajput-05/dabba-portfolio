@@ -2,7 +2,7 @@
 const TIERS=["Tehelka Posts","Chatpati Writing","Sweet Growth"];
 const TAGS=[{"n": "Tehelka", "s": "Posts", "x": 12, "y": 12}, {"n": "Chatpati", "s": "Writing", "x": 2, "y": 44}, {"n": "Sweet", "s": "Growth", "x": 76, "y": 22}];
 const NOTES={"closed": "No ghar ka khana today. Just some food for thought.", "trays": "Fine print: you might not see the creativity in the design itself, but you’ll definitely see it in the ideas and perspective.", "bowl": "Careful, still warm.", "tiers": ["Packed with a pinch of fresh perspective.", "Words, seasoned to taste.", "The part that keeps a business fed."]};
-const CONTACT={email:"pravinrajput17102005@gmail.com",linkedin:"www.linkedin.com/in/sohansingh-rajput-8a34b425a"}; /* replace with your real links */
+const CONTACT={email:"pravinrajput17102005@gmail.com",linkedin:"https://www.linkedin.com/in/sohansingh-rajput-8a34b425a"}; /* replace with your real links */
 /* The "dabba owner" card shown before the final message. Replace the facts with TRUE ones. */
 const ABOUT={title:"The dabba owner",line:"Three completely unnecessary facts about the dabba owner, free of charge:",facts:["Can catch mosquitoes alive with hands(a few attempts required).","Already a successful poet in his 1 audience world.","Believes in 'life serious lene vali chiz hi nahi hai'."]};
 /* "Short on time?" card on the trays page. i = position in PORTFOLIO (0 = first katori). Edit freely. */
